@@ -8,5 +8,3 @@
 ## Snake
 ![](https://raw.githubusercontent.com/hochu-shunsuke/hochu-shunsuke/output/github-contribution-grid-snake.svg)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hochu-shunsuke&theme=default)
