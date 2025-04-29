@@ -11,6 +11,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hochu-shunsuke&theme=dark&utcOffset=9" width="45%">
 </p>
 
+## Profile
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/ea07ffda-d0b8-4fdb-9948-2f7b012a8e1d" width="95%">
+</p>
 
 ## Snake
 ![](https://raw.githubusercontent.com/hochu-shunsuke/hochu-shunsuke/output/github-contribution-grid-snake.svg)
