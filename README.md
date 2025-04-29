@@ -1,16 +1,13 @@
-<details open>
-  <summary>日本語[ja]</summary>
-  <p>
-    「全ての人が生きるためのインフラを」
-  </p>
-</details>
+## Goal
+「全ての人が生きるためのインフラを」
+Creating essential infrastructure for all to thrive
 
-<details>
-  <summary>English[En]</summary>
-  <p>
-    Creating essential infrastructure for all to thrive
-  </p>
-</details>
+## Tech Stack
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px 0;">            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React">
+  <img src="" height="40" alt="">
+</div>
 
 
 ## Stats
