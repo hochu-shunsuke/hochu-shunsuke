@@ -1,16 +1,14 @@
 <details open>
   <summary>日本語[ja]</summary>
   <p>
-    「全ての人が生きるためのインフラを」，貧困地域における通信インフラを整備する目標があります．
+    「全ての人が生きるためのインフラを」
   </p>
 </details>
 
 <details>
-  <summary>英語[En]</summary>
+  <summary>English[En]</summary>
   <p>
-    I have a great goal of creating a communication infrastructure for all to live, and we are moving forward every day toward that goal. Everything is an experience, and we approach our work with sincerity.
-
-
+    Creating essential infrastructure for all to thrive
   </p>
 </details>
 
