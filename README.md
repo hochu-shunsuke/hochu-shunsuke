@@ -1,5 +1,7 @@
 ## Stats
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hochu-shunsuke&theme=dark)
+<p align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hochu-shunsuke&theme=dark" width="95%">
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hochu-shunsuke&theme=dark" width="45%" style="margin-right:5%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hochu-shunsuke&theme=dark" width="45%">
