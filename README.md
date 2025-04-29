@@ -1,3 +1,20 @@
+<details open>
+  <summary>日本語[ja]</summary>
+  <p>
+    「全ての人が生きるためのインフラを」，貧困地域における通信インフラを整備する目標があります．
+  </p>
+</details>
+
+<details>
+  <summary>英語[En]</summary>
+  <p>
+    I have a great goal of creating a communication infrastructure for all to live, and we are moving forward every day toward that goal. Everything is an experience, and we approach our work with sincerity.
+
+
+  </p>
+</details>
+
+
 ## Stats
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hochu-shunsuke&theme=dark" width="95%">
