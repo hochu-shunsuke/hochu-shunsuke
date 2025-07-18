@@ -1,5 +1,4 @@
 ## Goal
-「全ての人が生きるためのインフラを」
 Creating essential infrastructure for all to thrive
 
 ## Tech Stack
