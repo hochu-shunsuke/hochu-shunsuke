@@ -12,19 +12,6 @@ Creating essential infrastructure for all to thrive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" alt="Ubuntu">        
 </div>
 
-## Stats
-<p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hochu-shunsuke&theme=dark" width="95%">
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hochu-shunsuke&theme=dark" width="45%" style="margin-right:5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hochu-shunsuke&theme=dark" width="45%">
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hochu-shunsuke&theme=dark" width="45%" style="margin-right:5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hochu-shunsuke&theme=dark&utcOffset=9" width="45%">
-</p>
-
 ## Profile
 <p align="center">
  <img src="https://github.com/user-attachments/assets/ea07ffda-d0b8-4fdb-9948-2f7b012a8e1d" width="95%">
