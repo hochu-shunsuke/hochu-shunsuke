@@ -1,5 +1,11 @@
-## Goal
-Creating essential infrastructure for all to thrive
+こんにちは．こんばんは．
+宝中（ホウチュウ）です．2005年生まれでA型かO型です．
+情報工学を学んでいます．個人でのWeb開発，イベントの企画運営，LPサイトなどのコンテンツ作成等，色々取り組んでいます🌴
+
+AIを活かして，自身の中に技術部とデザイン部，企画部など部署作り，質の高い創作を心がけています．
+
+Web技術，特に認証技術や大規模なsocial-app（SNS）などに興味があります．
+毎日新しいものを試して，何個かSNSを作っています．次はAT protcolを学んで取り入れたい，，
 
 ## Tech Stack
 <div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px 0;">            
@@ -12,10 +18,8 @@ Creating essential infrastructure for all to thrive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" alt="Ubuntu">        
 </div>
 
-## Profile
+前作ったやつ↓
 <p align="center">
  <img src="https://github.com/user-attachments/assets/ea07ffda-d0b8-4fdb-9948-2f7b012a8e1d" width="95%">
 </p>
 
-## Snake
-![](https://raw.githubusercontent.com/hochu-shunsuke/hochu-shunsuke/output/github-contribution-grid-snake.svg)
