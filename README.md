@@ -34,5 +34,5 @@ Web技術，特に認証基盤や大規模なsocial-app（SNS）などに興味�
 </div>
 
 ## Homepage
-仮のポートフォリオ↓将来的に制作物やアプリを置くための「studio hochu」を構想中です^^
+仮のサイト↓将来的に制作物やアプリを置くための「studio hochu」を構想中です^^  
 [hochu-portfolio](https://hochu-portfolio.vercel.app/)
