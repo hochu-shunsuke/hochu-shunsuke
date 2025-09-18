@@ -1,7 +1,7 @@
 ## Hello, World!
 こんにちは．こんばんは．宝中（ホウチュウ）です．2005年生まれの28卒です．<br>
 Web開発，イベントの企画運営，コンテンツ制作に取り組んでいます．<br>
-人道支援や，貧困国での通信インフラに関心があります．
+人道支援や，発展途上国での通信インフラに関心があります．
 
 ## Tech Stack
 <div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px 0;">            
