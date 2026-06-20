@@ -4,4 +4,4 @@ HR企業のエンジニアとしてサービス開発、コンテンツ制作に
 メディア・インフラ・広告・webサービス・webマーケなどに関心があります。<br>
 
 ## Homepage 
-[hochu-portfolio](https://hochu-portfolio.vercel.app/)
+[portfolio](https://hochu-portfolio.vercel.app/)
