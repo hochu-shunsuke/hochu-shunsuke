@@ -6,4 +6,4 @@ HR企業のエンジニアとしてサービス開発、コンテンツ制作に
 ## Homepage 
 [portfolio](https://hochu-portfolio.vercel.app/)
 
-![Uploading image.png…]()
+<img width="500" height="496" alt="image" src="https://github.com/user-attachments/assets/7fc8fbbd-9e03-463b-9887-16a363a3e951" />
